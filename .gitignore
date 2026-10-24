@@ -1,0 +1,31 @@
+# Compiled Java output
+/bin/
+*.class
+
+# Local application data (may contain member information)
+/data/*.dat
+
+# macOS and IDE-generated files
+.DS_Store
+Icon?
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# Compiled Java files
+*.class
+bin/
+
+# Local application data
+data/
+
+# Build output
+out/
+build/
